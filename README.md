@@ -39,7 +39,7 @@ Os seguintes passos serão executados para o funcionamento do sistema:
 
 ### Como acessar
 
- - Acessando o sistema: [localhost:8000](http://localhost:8000/)
+ - Acessando o sistema: [localhost:8000/login](http://localhost:8000/login)
  - Acessando banco de dados [localhost:8089](http://localhost:8089)
 
 ### Comandos utéis
